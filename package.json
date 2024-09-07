@@ -13,7 +13,6 @@
     "element-plus": "^2.3.3",
     "furit-price-ceshi": "^0.0.1",
     "jsppui": "^1.0.7",
-    "npm-vite-demo": "^0.0.1",
     "vue": "^3.3.11",
     "vue-lazyload": "^3.0.0",
     "vue-router": "^4.2.5"
